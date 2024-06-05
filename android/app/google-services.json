@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192408530613",
+    "project_id": "personalcontrol-8c00d",
+    "storage_bucket": "personalcontrol-8c00d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192408530613:android:ee79a1c52a4005d01758fc",
+        "android_client_info": {
+          "package_name": "com.mycompany.personalcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvOdpeNiz3raniB4Z9slmxlGHydBNOTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
